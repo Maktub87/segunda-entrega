@@ -1,5 +1,5 @@
 
-
+//profe se que son ejemplos que ya hicimos pero es lo que estube practicando , intente agregar lo visto espero que sirva , gracias , me cuesta un poco pero estoy prcticando 
 
 function loguear(){
 
